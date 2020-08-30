@@ -11,7 +11,7 @@ Implementing a particle filter to solve the localization challenge proposed by U
 
 
 ## Running the Code
-The project employs the simulation environment provided by UDACITY which can be downloaded from [here](https://github.com/udacity/self-driving-car-sim/releases).
+The project employs the simulation environment provided by UDACITY which can be downloaded from [here](https://youtu.be/0SbVwwY_NuQ).
 
 This repository includes two files that can be used to set up and intall [uWebSocketIO](https://github.com/uWebSockets/uWebSockets) for either Linux or Mac systems. For windows you can use either Docker, VMware, or even [Windows 10 Bash on Ubuntu](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) to install uWebSocketIO.
 
